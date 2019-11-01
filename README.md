@@ -1,4 +1,4 @@
-# gradient-descent-linear-regression
+# linear-regression
 Demonstration of gradient descent algorithm on Linear Regression model containing one feature and one target.
 
 Three techniques for linear regression
