@@ -1,5 +1,4 @@
 # linear-regression
-## Datasets used: www.superdatascience.com/pages/training from Machine Learning AZ course 
 Demonstration of gradient descent algorithm on Linear Regression model containing one feature and one target.
 
 Three techniques for linear regression
@@ -32,3 +31,5 @@ How they work
    b. Apply GD and find optimal m and c.
    
    c. Repeat steps a & b until we get a constant minimum value of cost function.
+   
+Datasets used: www.superdatascience.com/pages/training from Machine Learning AZ course 
