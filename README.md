@@ -1,4 +1,6 @@
-# linear-regression
+# gradient-descent-linear-regression
+Pure python implementation of linear regression algorithm with gradient descent.
+
 Demonstration of gradient descent algorithm on Linear Regression model containing one feature and one target.
 
 Three techniques for linear regression
